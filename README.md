@@ -16,7 +16,7 @@
 
 - 📊 **[ClaudeBar](https://github.com/MarvinFS/Public/tree/main/claudebar)** - Windows tray app for Claude Code & OpenAI Codex usage tracking
 - 📡 **[luci-app-xray](https://github.com/MarvinFS/luci-app-xray)** - Fork binary of a Full-feature Xray client for OpenWrt with VLESS+REALITY support
-- 🛜 **[openwrt](https://github.com/MarvinFS/Public/tree/main/openwrt)** - OpenWrt scripts for GL-MT6000: transparent proxy, WireGuard, geodata automation
+- 🛜 **[openwrt](https://github.com/MarvinFS/Public/tree/main/openwrt)** - OpenWrt scripts different automation and system tasks, including XRAY transparent proxy, WireGuard, geodata automation, etc. 
 - 🔐 **[linux-vpn-manager](https://github.com/MarvinFS/Public/tree/main/linux-vpn-manager)** - One-command VPN deployment: XRay, WireGuard, OpenVPN, Shadowsocks
 - 🪟 **[throne](https://github.com/MarvinFS/Public/tree/main/throne)** - Windows domain-based routing for censorship bypass
 - 🗄️ **[VSA repo](https://github.com/MarvinFS/Public/tree/main/VSA%20repo)** - Veeam Software Appliance local repository mirror automation
