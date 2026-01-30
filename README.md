@@ -14,6 +14,7 @@
 
 ## Current Projects
 
+- 🎤 **[CLD](https://github.com/MarvinFS/CLD)** - Local AI-powered voice dictation for Windows with 99 language support and GPU acceleration
 - 📊 **[ClaudeBar](https://github.com/MarvinFS/Public/tree/main/claudebar)** - Windows tray app for Claude Code & OpenAI Codex usage tracking
 - 📡 **[luci-app-xray](https://github.com/MarvinFS/luci-app-xray)** - Fork binary of a Full-feature Xray client for OpenWrt with VLESS+REALITY support
 - 🛜 **[openwrt](https://github.com/MarvinFS/Public/tree/main/openwrt)** - OpenWrt scripts different automation and system tasks, including XRAY transparent proxy, WireGuard, geodata automation, etc. 
